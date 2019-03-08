@@ -14,7 +14,7 @@ Felicia-
 Entering the system
 Children Entering Out-of-Home Care - Statewide
 Children In Out-of-Home Care - Statewide
-                                                                                                                                                                               Rebeca-
+                                                                                                                                          Rebeca-
 Variables
 Census demographic variables
 API map
@@ -22,7 +22,7 @@ Powerpoint
 
 LaShanti-
 Variables
-	Census demographic variables
+Census demographic variables
 Placement Moves per 1,000 Bed Days in Out-of-Home Care - Statewide
 
 Ian (Admin)-
